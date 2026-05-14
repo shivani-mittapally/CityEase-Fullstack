@@ -1,0 +1,15 @@
+{
+  "name": "cityease-fullstack",
+  "version": "1.0.0",
+  "description": "CityEase Full-Stack Application",
+  "scripts": {
+    "install:backend": "cd backend && npm install",
+    "start:backend": "cd backend && npm run start",
+    "dev:backend": "cd backend && npm run dev",
+    "postinstall": "npm run install:backend"
+  },
+  "keywords": ["cityease", "fullstack"],
+  "author": "",
+  "license": "ISC"
+}
+

@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "service_id": 1,
+    "name": "Ramesh (Mechanic)",
+    "rating": 4.6,
+    "availability": "available"
+  },
+  {
+    "id": 2,
+    "service_id": 2,
+    "name": "Lakshmi (Cleaner)",
+    "rating": 4.8,
+    "availability": "busy"
+  },
+  {
+    "id": 3,
+    "service_id": 3,
+    "name": "Suresh (Plumber)",
+    "rating": 4.7,
+    "availability": "available"
+  },
+  {
+    "id": 4,
+    "service_id": 4,
+    "name": "Anil (Electrician)",
+    "rating": 4.5,
+    "availability": "available"
+  }
+]
